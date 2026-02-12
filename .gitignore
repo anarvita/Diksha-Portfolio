@@ -1,0 +1,74 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# SvelteKit build
+.svelte-kit
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Next.js build output
+.next/
+
+# Storybook build outputs
+.out/
+storybook-static/
+
+# Mac system files
+Icon?
+
+# Windows system files
+Desktop.ini
+$RECYCLE.BIN/
+
+# Misc
+*.log
+*.tgz
+*.swp
+*.swo
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Resume files
+resume.pdf
+resume.doc
+Diksha_Shrama_FrontendEngineer.docx
+Diksha_Shrama_FullStackEngineer.pdf
+Resume.doc
+Resume.docx
